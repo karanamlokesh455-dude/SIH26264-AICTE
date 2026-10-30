@@ -20,3 +20,4 @@
 The login is a client-side demonstration gate only. Credentials are visible in the HTML source and do not provide real security. Complaint records are stored in the current browser using local storage. Do not enter real personal, confidential, or sensitive information. A production system needs server-side authentication, role-based access, secure database storage, audit logging, and approved privacy/security controls.
 
 All sample records are fictional. This is an SIH26264 prototype and is not an official AICTE service.
+AICTE complain monitoring dashboard prototype
